@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1525938632 source:d:\study\光电\编译原理\pl0\pl0\helper.cpp
+	<iostream>
+	<string>
+
+1525939680 source:d:\study\光电\编译原理\pl0\pl0\main.cpp
+	<iostream>
+	<string>
+	"helper.h"
+	"data.h"
+
+1525938694 d:\study\光电\编译原理\pl0\pl0\helper.h
+	<string>
+
+1525940676 source:d:\study\光电\编译原理\pl0\pl0\lex.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"data.h"
+
+1525941345 d:\study\光电\编译原理\pl0\pl0\data.h
+
